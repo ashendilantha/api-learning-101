@@ -56,7 +56,7 @@
 1. **Open Postman**
 2. **Click** "New" → "HTTP Request" (or Ctrl/Cmd + N)
 3. **Select** HTTP method: `GET`
-4. **Enter** URL: `https://api-learning.nisalgunawarchana.com/api/users`
+4. **Enter** URL: `https://api-learning.nisalgunawardhana.com/api/users`
 5. **Click** "Send"
 6. **View** response below!
 
@@ -81,7 +81,7 @@
 
 **Steps**:
 1. Method: `GET`
-2. URL: `https://api-learning.nisalgunawarchana.com/api/users/1`
+2. URL: `https://api-learning.nisalgunawardhana.com/api/users/1`
 3. Click "Send"
 
 **No body needed!**

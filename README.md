@@ -6,7 +6,7 @@ Welcome to API Learning 101! This repository is your comprehensive guide to unde
 
 ## 🌐 Live Demo
 
-**Backend API**: [api-learning.nisalgunawarchana.com](https://api-learning.nisalgunawarchana.com)
+**Backend API**: [api-learning.nisalgunawardhana.com](https://api-learning.nisalgunawardhana.com)
 
 ## 📚 What You'll Learn
 
@@ -52,7 +52,7 @@ api-learning-101/
 
 1. Open the public Postman workspace link above
 2. Fork the collection to your workspace
-3. Start testing with the live API at `https://api-learning.nisalgunawarchana.com`
+3. Start testing with the live API at `https://api-learning.nisalgunawardhana.com`
 
 ### 2. (Optional) Local Testing
 
@@ -75,7 +75,7 @@ The API will be available at `http://localhost:3000`
 
 ## 🎯 API Endpoints
 
-**Base URL**: `https://api-learning.nisalgunawarchana.com`
+**Base URL**: `https://api-learning.nisalgunawardhana.com`
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|

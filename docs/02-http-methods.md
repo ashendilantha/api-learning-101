@@ -37,7 +37,7 @@ GET /api/users?age=25&city=London
 **Request**:
 ```http
 GET /api/users/1 HTTP/1.1
-Host: api-learning.nisalgunawarchana.com
+Host: api-learning.nisalgunawardhana.com
 ```
 
 **Response**:
@@ -74,7 +74,7 @@ POST /api/users
 **Request**:
 ```http
 POST /api/users HTTP/1.1
-Host: api-learning.nisalgunawarchana.com
+Host: api-learning.nisalgunawardhana.com
 Content-Type: application/json
 
 {
@@ -121,7 +121,7 @@ PUT /api/users/1
 **Request**:
 ```http
 PUT /api/users/1 HTTP/1.1
-Host: api-learning.nisalgunawarchana.com
+Host: api-learning.nisalgunawardhana.com
 Content-Type: application/json
 
 {
@@ -167,7 +167,7 @@ PATCH /api/users/1
 **Request**:
 ```http
 PATCH /api/users/1 HTTP/1.1
-Host: api-learning.nisalgunawarchana.com
+Host: api-learning.nisalgunawardhana.com
 Content-Type: application/json
 
 {
@@ -211,7 +211,7 @@ DELETE /api/users/1
 **Request**:
 ```http
 DELETE /api/users/1 HTTP/1.1
-Host: api-learning.nisalgunawarchana.com
+Host: api-learning.nisalgunawardhana.com
 ```
 
 **Response**:
@@ -352,20 +352,20 @@ Use our API to practice:
 
 ```bash
 # GET - Fetch all users
-curl https://api-learning.nisalgunawarchana.com/api/users
+curl https://api-learning.nisalgunawardhana.com/api/users
 
 # POST - Create user
-curl -X POST https://api-learning.nisalgunawarchana.com/api/users \
+curl -X POST https://api-learning.nisalgunawardhana.com/api/users \
   -H "Content-Type: application/json" \
   -d '{"name":"Test User","email":"test@example.com"}'
 
 # PUT - Update user
-curl -X PUT https://api-learning.nisalgunawarchana.com/api/users/1 \
+curl -X PUT https://api-learning.nisalgunawardhana.com/api/users/1 \
   -H "Content-Type: application/json" \
   -d '{"name":"Updated Name","email":"updated@example.com"}'
 
 # DELETE - Remove user
-curl -X DELETE https://api-learning.nisalgunawarchana.com/api/users/1
+curl -X DELETE https://api-learning.nisalgunawardhana.com/api/users/1
 ```
 
 ---

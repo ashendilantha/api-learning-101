@@ -61,7 +61,7 @@ The waiter is the intermediary that communicates between you and the kitchen, ju
 ### 1. **Endpoint**
 The URL where the API can be accessed:
 ```
-https://api-learning.nisalgunawarchana.com/api/users
+https://api-learning.nisalgunawardhana.com/api/users
 ```
 
 ### 2. **Method**

@@ -130,7 +130,7 @@ Share your completion on social media to get more chances:
 ## ❓ FAQ
 
 ### Q: Can I test locally instead of using the production API?
-A: The submission requires using the production API (`https://api-learning.nisalgunawarchana.com`). Local testing is optional but not required for submission.
+A: The submission requires using the production API (`https://api-learning.nisalgunawardhana.com`). Local testing is optional but not required for submission.
 
 ### Q: What if I make a mistake in my screenshots?
 A: You can update your PR with corrected screenshots before the review is complete.

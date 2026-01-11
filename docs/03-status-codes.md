@@ -493,16 +493,16 @@ You can test status codes with curl:
 
 ```bash
 # Check status code only
-curl -I https://api-learning.nisalgunawarchana.com/api/users
+curl -I https://api-learning.nisalgunawardhana.com/api/users
 
 # Show status code with response
-curl -i https://api-learning.nisalgunawarchana.com/api/users
+curl -i https://api-learning.nisalgunawardhana.com/api/users
 
 # Test 404
-curl -i https://api-learning.nisalgunawarchana.com/api/users/9999
+curl -i https://api-learning.nisalgunawardhana.com/api/users/9999
 
 # Test 400 (bad request)
-curl -X POST https://api-learning.nisalgunawarchana.com/api/users \
+curl -X POST https://api-learning.nisalgunawardhana.com/api/users \
   -H "Content-Type: application/json" \
   -d '{"invalid": "data"}' \
   -i
